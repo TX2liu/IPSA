@@ -4,4 +4,4 @@ The AI analyzer utilized the pyramid files to perform coarse registration and fu
 
 The **analyzer** is available at  https://zenodo.org/records/14257522
 
-**Users authorised by the code owner are granted access.**
+**Users authorised by the code owner are granted access and access requests about the code can be made to tianzizhu1024@163.com.**
